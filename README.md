@@ -28,6 +28,16 @@ Miguel de Cervantes (1605)
 ## Imágenes
 ![](img/rlogo.png)
 
+## Listas númeradas
+1.Primer elemento
+2. Segundo elemento
+3. Tercer elemento
+
+## Listas no númeradas
+- Primer elemento
+- Segundo elemento
+- Tercer elemento
+
 ## Listas
 
 # HTML
