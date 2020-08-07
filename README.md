@@ -29,12 +29,15 @@ Miguel de Cervantes (1605)
 ![](img/rlogo.png)
 
 ## Listas númeradas
-1.Primer elemento
-2. Segundo elemento
-3. Tercer elemento
+1.Primer elemento  
+2. Segundo elemento  
+3. Tercer elemento  
 
 ## Listas no númeradas
 - Primer elemento
+  -1.1.
+  -1.2.
+  -1.3.
 - Segundo elemento
 - Tercer elemento
 
