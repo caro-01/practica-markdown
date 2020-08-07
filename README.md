@@ -26,5 +26,20 @@ Miguel de Cervantes (1605)
 [Sitio web de la Universidad Nacional (UNA)] (https://www.una.ac.cr/)
 
 ## Imágenes
+![]https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/200px-R_logo.svg.png
 
 ## Listas
+
+# HTML
+<h1> Encabezado nivel 1</h1> 
+<h2> Encabezado nivel 1</h2>  
+...
+<h6> Encabezado nivel 6</h6>
+
+<strong> Texto en negrita </strong>
+
+<em> Texto en itálica </em>  
+
+<a href="https://www.una.ac.cr/">Sitio web de la Universidad Nacional (UNA) en la misma ventana</a>  
+<a href="www.una.ac.cr. html" target="_blank">Sitio web de la Universidad Nacional (UNA) en otra ventana</a>
+
